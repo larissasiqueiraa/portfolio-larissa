@@ -18,7 +18,7 @@
 
     <div class="row">
       <div class="col-md-6">
-        <img style="width: 90%;" src="../landing_page/images/image-computer.png" alt="">
+        <img style="width: 90%; margin-bottom: 40px;" src="../landing_page/images/image-computer.png" alt="">
       </div>
 
       <div class="col-md-6">
@@ -41,7 +41,7 @@
       <p class="quebra">snippets in a few simple clicks.</p>
     </div>
 
-    <img src="../landing_page/images/image-devices.png" alt="">
+  <img class="img-devices" src="../landing_page/images/image-devices.png" alt="">
 
     <div class="parte4">
       <h2>Supercharge your flow</h2>
@@ -57,7 +57,7 @@
           <p class="quebra">way to your clipboard by excluding certain</p>
           <p class="quebra">sources.</p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4" style="margin-top: 34px;margin-bottom: 34px;">
           <i class="fa-solid fa-text-height"></i>
           <h3>Plain text snippets</h3>
           <p>Remove unwanted formatting from copied text</p>
