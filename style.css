@@ -1,0 +1,289 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    background-color: #0D1322 !important;
+    color: white !important;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+
+nav li {
+    list-style: none;
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.cor-hover:hover {
+    color: #2F838D;
+}
+
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.intro h1 {
+    font-size: 55px;
+    margin-top: 23px;
+    color: #2F838D;
+    margin-bottom: 20px;
+}
+
+.intro p {
+    margin-bottom: 42px;
+    font-size: 19px;
+}
+
+
+.projetos-destaque {
+    margin-top: 50px;
+}
+
+.infos-projetos-destaque {
+    background-color: #1C2233;
+    border-radius: 10px;
+    margin: 22px 22px 22px 0 !important;
+    padding: 15px;
+}
+
+.detalhes a {
+    color: #2F838D;
+    text-decoration: none;
+}
+
+.rodape-infos a {
+    text-decoration: none;
+    color: white;
+}
+
+.rodape {
+    background-color: #1C2233;
+    width: 100%;
+    margin-top: 40px;
+    padding: 20px 0 20px 0;
+}
+
+.rodape h5 {
+    margin-top: 40px;
+}
+
+#redes {
+    margin-top: 40px;
+}
+
+.direitos {
+    text-align: center;
+    margin-top: 34px;
+}
+
+#foco {
+    margin-top: -32px;
+}
+
+.foto-sobre {
+    margin-left: 106px;
+    border-radius: 15px;
+}
+
+.menu {
+    margin-bottom: 7%;
+}
+
+.icone-linguagens {
+    text-align: center;
+}
+
+.icone-linguagens i {
+    font-size: 40px;
+    color: #2F838D;
+    background-color: white;
+    border-radius: 37px;
+    width: 69px;
+    height: 68px;
+    padding-top: 14px;
+    margin-bottom: 18px;
+}
+
+.icone-linguagens h2 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.icone-linguagens h4 {
+    margin-bottom: 50px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    /* centraliza */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.campo label {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.campo input,
+.campo textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    outline: none;
+    background-color: #272F40;
+    color: #fff;
+}
+
+button {
+    background: #272F40;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #272f4084;
+}
+
+.contato h1,
+.contato p {
+    text-align: center;
+}
+
+.whatsapp-botao {
+    background: #075E54;
+    color: #fff;
+    border: none;
+    padding: 0px 0 0px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 85%;
+    line-height: 46px;
+}
+
+.whatsapp-botao:hover {
+    background-color: #128C7E;
+    box-shadow: 0 0 12px #25D366;
+    transform: translateY(-2px);
+}
+
+.curriculo-botao {
+    background: #0a1f44;
+    color: #fff;
+    border: none;
+    padding: 0px 0 0px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 85%;
+    line-height: 46px;
+}
+
+.curriculo-botao:hover {
+    background-color: #0d3c81;
+    box-shadow: 0 0 12px #346cbe;
+    transform: translateY(-2px);
+}
+
+.curriculo p {
+    margin-bottom: 39px;
+}
+
+.enviar-btn {
+    margin-bottom: 25px;
+
+}
+
+.curriculo a {
+    text-decoration: none;
+    color: white;
+}
+
+.whatsapp a {
+    text-decoration: none;
+    color: white;
+}
+
+.hide-desktop {
+    display: none;
+}
+
+.projeto-card {
+    background-color: #1e293b;
+    /* fundo único */
+    border-radius: 10px;
+    overflow: hidden;
+    /* imagem respeita bordas */
+    height: 100%;
+}
+
+.projeto-card img {
+    object-fit: cover;
+}
+
+.meus-projetos {
+    background-color: #1C2233;
+    border-radius: 10px;
+    margin: 22px 22px 22px 0 !important;
+    padding: 30px;
+}
+
+.meus-projetos a{
+    text-decoration: none;
+    color: #2F838D;;
+}
+
+.meus-projetos:hover {
+  background-color: #20293d;
+  transition: background-color 0.3s ease;
+}
+
+/*-------MOBILE----------*/
+
+@media (max-width: 700px) {
+    .hide-mobile {
+        display: none;
+    }
+
+    .menu ul {
+        margin-left: -35px;
+    }
+
+    .intro h1 {
+        font-size: 43px;
+        margin-top: 10px;
+    }
+
+    .foto-sobre {
+        margin-left: 20px;
+    }
+
+    .titulo-projetos-destaq {
+        font-size: 21px !important;
+    }
+}
