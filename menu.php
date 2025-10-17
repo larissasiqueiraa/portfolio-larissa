@@ -2,7 +2,7 @@
     <div class="row">
     
         <div class="col-md-6">
-            <h3 class="hide-mobile">LS</h3>
+            <h3 class="hide-mobile"><a href="https://larissa-siqueira.infinityfreeapp.com/index.php">LS</a></h3>
         </div>
         <div class="col-md-6">
             <nav class="menu">

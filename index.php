@@ -23,28 +23,28 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="infos-projetos-destaque">
-                        <img src="/imagens/images.png" alt="">
-                        <h4>Lorem ipsum dolor </h4>
-                        <p>Lorem ipsum dolor </p>
-                        <p class="detalhes"><a href="">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
+                        <img src="/imagens/projeto1-home.png" alt="">
+                        <h4>Site Institucional (contratada pela empresa DNA tecnologia)</h4>
+                        <p>Páginas desenvolvidas por mim: Por que o Piauí, Infraestrutura, Setores Econômicos, Produtos e Serviços</p>
+                        <p class="detalhes"><a href="https://larissa-siqueira.infinityfreeapp.com/projetos.php">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="infos-projetos-destaque">
-                        <img src="/imagens/images.png" alt="">
-                        <h4>Lorem ipsum dolor</h4>
-                        <p>Lorem ipsum dolor </p>
-                        <p class="detalhes"><a href="">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
+                        <img src="/imagens/projeto2-home.png" alt="">
+                        <h4>ClipBoard Landing Page</h4>
+                        <p>Landing Page responsiva</p>
+                        <p class="detalhes"><a href="https://larissa-siqueira.infinityfreeapp.com/projetos.php">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="infos-projetos-destaque">
-                        <img src="/imagens/images.png" alt="">
-                        <h4>Lorem ipsum dolor </h4>
-                        <p>Lorem ipsum dolor </p>
-                        <p class="detalhes"><a href="">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
+                        <img src="/imagens/calculadora.png" alt="">
+                        <h4>Calculadora (em andamento)</h4>
+                        <p>Uma calculadora simples para operações básicas</p>
+                        <p class="detalhes"><a href="https://larissa-siqueira.infinityfreeapp.com/projetos.php">Ver detalhes <i class="fa-solid fa-arrow-right"></i></a></p>
                     </div>
                 </div>
             </div>

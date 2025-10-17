@@ -58,6 +58,13 @@ nav a {
     border-radius: 10px;
     margin: 22px 22px 22px 0 !important;
     padding: 15px;
+    min-height: 93%;
+}
+
+.infos-projetos-destaque img {
+    margin-bottom: 20px !important;
+    width: 100%;
+    border-radius: 14px;
 }
 
 .detalhes a {
@@ -250,17 +257,23 @@ button:hover {
     background-color: #1C2233;
     border-radius: 10px;
     margin: 22px 22px 22px 0 !important;
-    padding: 30px;
+    padding: 20px;
+    min-height: 87%;
 }
 
-.meus-projetos a{
+.meus-projetos a {
     text-decoration: none;
-    color: #2F838D;;
+    color: #2F838D;
 }
 
 .meus-projetos:hover {
-  background-color: #20293d;
-  transition: background-color 0.3s ease;
+    background-color: #20293d;
+    transition: background-color 0.3s ease;
+}
+
+.meus-projetos img{
+    width: 100%;
+    border-radius: 10px;
 }
 
 

@@ -47,7 +47,7 @@
                     <div class="curriculo">
                         
                             <p>Baixar Currículo</p>
-                            <a href="../portfolio/arquivos/Curriculo_Larissa_.pdf"> 
+                            <a href="/arquivos/Curriculo_Larissa_.pdf"> 
                             <div class="curriculo-botao">
                                 <p> <i class="fa-solid fa-file-pdf"></i> Currículo</p>
                             </div>
